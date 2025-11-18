@@ -21,18 +21,18 @@ export default function About() {
           <div className="bg-gradient-to-r from-blue-50 to-indigo-50 dark:bg-gradient-to-r dark:from-gray-800 dark:to-gray-900 rounded-lg p-6">
             <div className="flex flex-col sm:flex-row items-start sm:items-center gap-4">
               <img
-                src="https://i.imgur.com/N438dFe.png"
-                alt="Nikhil Raikwar"
+                src="https://avatars.githubusercontent.com/u/62215388?v=4"
+                alt="Shubham Raj"
                 className="w-24 h-24 rounded-full object-cover border-4 border-white dark:border-gray-700 shadow-lg"
               />
               <div>
-                <h4 className="text-xl font-bold text-gray-800 dark:text-gray-200">Nikhil Raikwar</h4>
+                <h4 className="text-xl font-bold text-gray-800 dark:text-gray-200">Shubham Raj</h4>
                 <p className="text-gray-600 dark:text-gray-400 mt-2">
                   Full Stack Developer passionate about creating innovative solutions in healthcare technology. Specialized in building user-friendly applications that make a difference in people's lives.
                 </p>
                 <div className="flex flex-wrap gap-4 mt-4">
                   <a
-                    href="https://nikhilraikwar.vercel.app/"
+                    href="https://github.com/shubhamraj82"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-700 transition-colors"
@@ -41,7 +41,7 @@ export default function About() {
                     <span>Portfolio</span>
                   </a>
                   <a
-                    href="https://github.com/nikhilraikwar"
+                    href="https://github.com/shubhamraj82"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-700 transition-colors"
@@ -50,7 +50,7 @@ export default function About() {
                     <span>GitHub</span>
                   </a>
                   <a
-                    href="mailto:raikwarnikhil80@gmail.com"
+                    href="mailto:raj.subham3004@gmail.com"
                     className="flex items-center gap-2 text-gray-600 dark:text-gray-400 hover:text-blue-700 transition-colors"
                   >
                     <Mail className="w-5 h-5" />
